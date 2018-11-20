@@ -1,0 +1,4 @@
+Today, i learnt to divide task into small tasks in order to make the coding more efficient.
+However, I am not that familiar with javascript so i feel the tasks today are a little bit difficult.
+I learnt that dividing task into small tasks to make the coding faster and reduce the risk of logic error.
+I think i should put some time to self learn javascript.
